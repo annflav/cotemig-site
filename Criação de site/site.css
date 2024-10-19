@@ -1,0 +1,147 @@
+*{padding: 0;
+ }
+td { width: 14.2%; }
+
+body {background-size: 100%;
+margin: 0;}
+
+table { width: 100%;}
+
+.roxo { background-color: rgba(58, 11, 99, 1);}
+
+.rosa { background-color: #FB45C7; 
+        height: 16.6%;
+      text-align: center;}
+.branco { color: rgb(245, 245, 245);
+
+  font-family: "Raleway", sans-serif;
+font-size: 16px;}      
+.centro{ text-align: center;}
+
+p{ text-align: center;}
+
+div{text-align: unset;
+font-size: 16px;}
+
+.titulo{ color: #FFFFFF;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif}
+  
+.sub { font-size: 17px;
+color: #FFFFFF;
+font-family: "Raleway", sans-serif;}
+.verde{ background-color: #89F668;
+height: 320px; }
+
+.texto3{text-align: center; 
+  font-family: Raleway, sans-serif;
+font-size: 18px;
+color: rgb(102, 16, 131);;}
+
+.coluna{column-count: 3;}
+.texto4{font-family: Raleway, sans-serif;
+  font-size: 32px;
+color: rgb(137, 246, 104);;
+text-align: center; }
+
+.qe{font-family: Raleway, sans-serif;
+  font-size: 24px;
+color: rgb(137, 246, 104);;
+text-align: center;  }
+
+.quadrado{ 
+  background-color: #5b1078;
+
+  width: 480px;
+  height: 270.3px;
+}
+
+.wee{ background-color:rgba(67, 11, 110, 1);}
+
+.imagem{ height: 223.7px;
+width: 455px;}
+
+.texto5{ color: rgb(137, 246, 104);
+  font-size: 24px;
+  font-family: Raleway, sans-serif;
+
+justify-self: center;}
+
+
+.texto6{ color: rgb(137, 246, 104);
+  font-size: 18px;
+  font-family: Raleway, sans-serif;
+justify-self: center;}
+
+.quadrado2{  background-color: #5b1078;
+
+  width: 490px;
+  height: 330px;}
+
+  .texto7{ color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: Raleway, sans-serif;
+    text-align: center;}
+
+  .weee{  color: rgb(137, 246, 104);
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
+  justify-self: unset;;}
+
+  .quadrado3{background-color: #5b1078;
+  width: 480px;
+  height: 316.13px;}
+
+ .quadrado4 { background-color: #5b1078;
+width: 500px;
+height: 325px;}
+
+.fr{ text-align: center;}
+
+.quadrado5{ background-color: #5b1078;
+  width: 500px;
+  height: 325px;}
+
+  .roxinho{ background-color: rgba(138, 77, 157, 1);
+  height: 50px;
+  width: 291px;
+  }
+
+  .textinho{ height: 960px ;
+  height: 50px;}
+  
+  
+.button {  text-align: center;
+  background-color: rgba(138, 77, 157, 1);
+  height: 50px;
+  width: 291px;
+  font-size: 18px;
+    font-family: Raleway, sans-serif;
+  color: #FFFFFF;
+  border-radius: 12px;
+}
+
+.center{ text-align: center;}
+
+.termos {  font-size: 12px;
+  font-family: Raleway, sans-serif;
+color: #FFFFFF; 
+}
+
+.a{ font-family: Raleway, sans-serif;
+  font-size: 16px;
+  color: rgb(255, 255, 255); 
+text-align: left;}
+
+
+
+a:link{
+  text-decoration:none;
+  color:white;
+  font-size: 12px;
+  font-family: Raleway, sans-serif;
+color: #FFFFFF
+  }
+  
+  
+  
